@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Soccer Counter</string>
+    <string name="team_a">Team A</string>
+    <string name="goals">Goals</string>
+    <string name="Goals_Count">0</string>
+    <string name="PenaltiesCount">0</string>
+    <string name="fouls_text">Fouls</string>
+    <string name="FoulsCount">0</string>
+    <string name="YellowCardsCount">0</string>
+    <string name="yellow_cards_text">Yellow Cards</string>
+    <string name="red_cards_text">Red Cards</string>
+    <string name="RedCardsCount">0</string>
+    <string name="add_goal">+1 Goal</string>
+    <string name="add_penalties">+1 Penalties</string>
+    <string name="add_foul">+1 Foul</string>
+    <string name="add_yellow_card">+1 Yellow Card</string>
+    <string name="add_red_card">+1 Red Card</string>
+    <string name="penalties_text">Penalties</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="team_b">Team B</string>
+</resources>
